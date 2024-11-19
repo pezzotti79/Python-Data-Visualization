@@ -4,6 +4,7 @@
 4. Matplot Notebook.ipynb
 5. Random Walk Notebook.ipynb
 6. Weather data.ipynb
+
 This Python notebooks are part of Eric Matthes' Python Crash Course book:
  Matthes, E. (2022). Python crash course: A hands-on, project-based introduction to programming (3rd ed.). No Starch Press.
 
